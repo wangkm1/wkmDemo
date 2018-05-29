@@ -1,1 +1,5 @@
 gti1  bug 修改
+
+git 2 
+add new code
+
