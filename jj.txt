@@ -1,6 +1,4 @@
 ﻿gti1  
-bug 修改
-bug 修改101
 bug 100 git1
 
 git 2 
