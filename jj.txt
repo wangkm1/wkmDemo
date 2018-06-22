@@ -4,8 +4,5 @@ bug 修改101
 bug 100 git1
 
 git 2 
-add new code,
-add new testCode and procode111 
-add new testCode and procode111222
-add wkmcode
+2108/6/22
 
