@@ -1,4 +1,4 @@
-gti1  
+﻿gti1  
 bug 修改
 bug 修改101
 bug 100 git1
@@ -6,4 +6,6 @@ bug 100 git1
 git 2 
 add new code,
 add new testCode and procode111 
+add new testCode and procode111222
+add wkmcode
 
