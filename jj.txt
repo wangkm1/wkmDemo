@@ -2,7 +2,7 @@
 
 
 Bigbug 112
-
+minbug git1
 
 git 2
 bug git2
