@@ -1,7 +1,5 @@
-﻿gti1
-bug 222
-
+﻿gti1  
+bigBug 111
 
 git 2
-minbug  100
 
