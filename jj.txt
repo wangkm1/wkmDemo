@@ -1,5 +1,7 @@
 ﻿gti1  
 bug 100 git1
+bug 200 git1
+
 
 git 2 
 2108/6/22
