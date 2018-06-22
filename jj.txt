@@ -2,5 +2,5 @@
 bug 300
 
 git 2
-bug 222
+bug 220
 
