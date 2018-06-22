@@ -1,5 +1,5 @@
 ﻿gti1  
-bug 500
+bug 300
 
 git 2
 bug 000
