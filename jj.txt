@@ -6,3 +6,4 @@ minbug git1 999999
 
 git 2
 bug git2
+bug 1000
