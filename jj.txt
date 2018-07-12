@@ -5,9 +5,13 @@ Bigbug 1122
 
 
 minbug git1 999999
+
 minbug git1   0000009999
 
 minbug git1   000000
+
+minbug git1   00000088888
+
 wkm
 
 git 2
